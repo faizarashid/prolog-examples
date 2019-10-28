@@ -53,6 +53,10 @@ A little story analogy to help understand cut and cut, fail
 ### familytree.pl
 
  The classic familytree example. This one has two separate families in it.
+ It follows the basic concept:
+  *A person is father if male and parent condition falls true.
+  *A person is in relation with another person if their ancestors are same.
+  *A person is cousin of another if both their parents are siblings.
  (left as exercise for the reader to find the two disconnected groups).
 
 ### socketdemo.pl
